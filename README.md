@@ -18,3 +18,5 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact)](https://github.com/ShmelevKirill/github-readme-stats)
