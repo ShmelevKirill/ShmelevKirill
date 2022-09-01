@@ -19,5 +19,14 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact)](https://github.com/ShmelevKirill/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShmelevKirill&theme=solarized_dark)
+<img width="99.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill&theme=github_dark">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShmelevKirill&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShmelevKirill&theme=github_dark">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShmelevKirill&theme=github_dark"> 
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShmelevKirill&theme=github_dark&utcOffset=8">
+</div>
