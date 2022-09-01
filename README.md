@@ -1,6 +1,3 @@
-### Привет, меня зовут Кирилл 👋
-Я junior Frontend-разработчик
-
 <!--
 **ShmelevKirill/ShmelevKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +15,4 @@ Here are some ideas to get you started:
 
 <h1 align="center">Привет, меня зовут Кирилл 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я junior Frontend-разработчик🇺</h3>
+<h3 align="center">Я junior Frontend-разработчик</h3>
