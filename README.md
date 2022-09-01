@@ -1,7 +1,3 @@
-<!--
-**ShmelevKirill/ShmelevKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 Учусь анализировать производительность и увеличивать её
 🌱 Учусь писать чистый и читабельный код
