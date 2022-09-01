@@ -20,3 +20,4 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact)](https://github.com/ShmelevKirill/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShmelevKirill&theme=solarized_dark)
