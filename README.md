@@ -10,7 +10,7 @@
 - 📫 пишите мне на почту: <kirillshmelev1@gmail.com> 
 - 📱 и в [Telegram](https://t.me/kirill_s_h)
 
-###***Мой технологический стек***
+### 🔨 ***Мой технологический стек***
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
