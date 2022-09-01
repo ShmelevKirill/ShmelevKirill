@@ -7,9 +7,10 @@
 - 👨‍💻 Учусь писать чистый и читабельный код
 - 🤝 Хочу работать в дружном коллективе с опытными коллегами
 - 👨‍🚀 Хочу постигать новое и совершенствовать старое
-- 📫 пишите мне на почту: <kirillshmelev1@gmail.com> или в telegram @kirill_s_h
+- 📫 пишите мне на почту: <kirillshmelev1@gmail.com> 
+- 📱 и в Telegram [Telegram](https://t.me/kirill_s_h
 
-<h3 align="center">Мой технологический стек</h3>
+<h3 align="center">Мой технологический стек
 
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
@@ -18,3 +19,4 @@
 ![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</h3>
