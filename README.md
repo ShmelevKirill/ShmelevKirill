@@ -23,10 +23,5 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShmelevKirill&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShmelevKirill&theme=github_dark">
 </div>
 
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShmelevKirill&theme=github_dark"> 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShmelevKirill&theme=github_dark&utcOffset=8">
-</div>
