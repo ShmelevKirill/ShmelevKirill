@@ -20,7 +20,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 <div style="display: flex; justify-content: space-between; width: 100%">
-<img width="49%" height="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill&theme=github_dark">
+<img width="49%" height="89%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill&theme=github_dark">
 <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShmelevKirill&theme=github_dark"> 
 </div>
 
