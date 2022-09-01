@@ -20,6 +20,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill&theme=github_dark" height="140px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact" height="140px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill" height="140px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact" height="140px"/>
 
 
