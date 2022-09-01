@@ -21,7 +21,7 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShmelevKirill&theme=github_dark" height="140px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ia-ShmelevKirill&layout=compact" height="140px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShmelevKirill&layout=compact" height="140px"/>
 
 </div>
 
