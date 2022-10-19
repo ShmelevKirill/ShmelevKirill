@@ -1,16 +1,16 @@
 
-<h1 align="center">Привет, меня зовут Кирилл 👋
+<h1 align="center">Hi, my name is Kirill 👋
 
-<h3 align="center">Я junior Frontend-разработчик</h3>
+<h3 align="center">I'm a junior frontend developer</h3>
 
-- 🔭 Учусь анализировать производительность и увеличивать её
-- 👨‍💻 Учусь писать чистый и читабельный код
-- 🤝 Хочу работать в дружном коллективе с опытными коллегами
-- 👨‍🚀 Хочу постигать новое и совершенствовать старое
-- 📫 пишите мне на почту: <kirillshmelev1@gmail.com> 
-- 📱 и в [Telegram](https://t.me/kirill_s_h)
+- 🔭 Learn to analyze performance and increase it
+- 👨‍💻 Learning to write clean and readable code
+- 🤝 I want to work in a friendly team with experienced colleagues
+- 👨‍🚀 I want to comprehend the new and improve the old
+- 📫 email me: <kirillshmelev1@gmail.com>
+- 📱 and in [Telegram](https://t.me/kirill_s_h)
 
-### 🔨 ***Мой технологический стек***
+### 🔨 ***My technology stack***
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
