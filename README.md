@@ -3,10 +3,10 @@
 
 <h3 align="center">I'm a junior frontend developer</h3>
 
-- 🔭 Learn to analyze performance and increase it
-- 👨‍💻 Learning to write clean and readable code
-- 🤝 I want to work in a friendly team with experienced colleagues
-- 👨‍🚀 I want to comprehend the new and improve the old
+- 🔭 Learn to analyze performance and increase it;
+- 👨‍💻 Learning to write clean and readable code;
+- 🤝 I want to work in a friendly team with experienced colleagues;
+- 👨‍🚀 I want to comprehend the new and improve the old;
 - 📫 email me: <kirillshmelev1@gmail.com>
 - 📱 and in [Telegram](https://t.me/kirill_s_h)
 
